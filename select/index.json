@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "older",
+  "base_artist": "Isabel LaRosa",
+  "createdAt": "2026-03-03T14:04:32.351538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Older Women - Re-Recorded In Stereo",
+      "artist": "Ronnie McDowell",
+      "has_synced": false,
+      "path": "select/01_Older_Women_-_Re-Recorded_In_Stereo_Ronnie_McDowell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Older Chests",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/02_Older_Chests_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Older Gods",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/03_Older_Gods_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Getting Older",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Just_Getting_Older_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wish We Were Older",
+      "artist": "Metro Station",
+      "has_synced": true,
+      "path": "select/05_Wish_We_Were_Older_Metro_Station.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Older",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/06_Older_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Older",
+      "artist": "George Michael",
+      "has_synced": false,
+      "path": "select/07_Older_George_Michael.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Older",
+      "artist": "Aereogramme",
+      "has_synced": false,
+      "path": "select/08_Older_Aereogramme.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Growing Older",
+      "artist": "Princess Chelsea",
+      "has_synced": true,
+      "path": "select/09_Growing_Older_Princess_Chelsea.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Older",
+      "artist": "Band of Horses",
+      "has_synced": false,
+      "path": "select/10_Older_Band_of_Horses.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/11_WHEN_I_WAS_OLDER_-_Music_Inspired_By_The_Film_ROMA_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When I Was Older (Muisic inspired by the film Roma)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/12_When_I_Was_Older_(Muisic_inspired_by_the_film_Roma)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "But Julian, I'm A Little Bit Older Than You",
+      "artist": "Courtney Love",
+      "has_synced": true,
+      "path": "select/13_But_Julian,_I'm_A_Little_Bit_Older_Than_You_Courtney_Love.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Older",
+      "artist": "Dan Deacon",
+      "has_synced": false,
+      "path": "select/14_Get_Older_Dan_Deacon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Getting Older",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/15_Getting_Older_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Older",
+      "artist": "George Michael",
+      "has_synced": false,
+      "path": "select/16_Older_George_Michael.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Older - Live",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/17_Older_-_Live_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Older (live)",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/18_Older_(live)_George_Michael.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "older",
+      "artist": "Isabel LaRosa",
+      "has_synced": false,
+      "path": "select/pl_01_older_Isabel_LaRosa.txt"
+    }
+  ]
+}
